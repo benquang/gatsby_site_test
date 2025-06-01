@@ -183,7 +183,7 @@ import Layout from '../components/layout'
 const IndexPage = () => {
   return (
     <Layout pageTitle="Home Page">
-      <p>Nguyen tri dung</p>
+      <p>upload speed test</p>
     </Layout>
   )
 }
